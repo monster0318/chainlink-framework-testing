@@ -6,7 +6,7 @@ replace github.com/smartcontractkit/chainlink-testing-framework/lib => ../lib
 
 require (
 	github.com/K-Phoen/grabana v0.22.2
-	github.com/coder/websocket v1.8.12
+	github.com/coder/websocket v1.8.13
 	github.com/gin-gonic/gin v1.10.0
 	github.com/go-resty/resty/v2 v2.16.5
 	github.com/google/uuid v1.6.0
@@ -23,7 +23,7 @@ require (
 	github.com/smartcontractkit/chainlink-testing-framework/lib/grafana v1.51.0
 	github.com/stretchr/testify v1.10.0
 	go.uber.org/ratelimit v0.3.1
-	google.golang.org/grpc v1.71.0 // indirect
+	google.golang.org/grpc v1.72.2 // indirect
 	k8s.io/api v0.33.1
 	k8s.io/apimachinery v0.33.1
 	k8s.io/client-go v0.33.1
@@ -276,7 +276,7 @@ require (
 	golang.org/x/arch v0.8.0 // indirect
 	golang.org/x/crypto v0.38.0 // indirect
 	golang.org/x/exp v0.0.0-20250106191152-7588d65b2ba8 // indirect
-	golang.org/x/mod v0.22.0 // indirect
+	golang.org/x/mod v0.24.0 // indirect
 	golang.org/x/net v0.40.0 // indirect
 	golang.org/x/oauth2 v0.30.0 // indirect
 	golang.org/x/sync v0.14.0
@@ -308,6 +308,8 @@ require (
 	sigs.k8s.io/structured-merge-diff/v4 v4.6.0 // indirect
 	sigs.k8s.io/yaml v1.4.0 // indirect
 )
+
+require github.com/rs/zerolog v1.34.0
 
 require (
 	github.com/ebitengine/purego v0.8.2 // indirect
