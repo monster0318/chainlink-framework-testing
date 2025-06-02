@@ -24,7 +24,7 @@ require (
 	github.com/joho/godotenv v1.5.1
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/lib/pq v1.10.9
-	github.com/onsi/gomega v1.34.2
+	github.com/onsi/gomega v1.37.0
 	github.com/otiai10/copy v1.14.0
 	github.com/pelletier/go-toml/v2 v2.2.3
 	github.com/pkg/errors v0.9.1
@@ -41,7 +41,7 @@ require (
 	go.uber.org/atomic v1.11.0
 	go.uber.org/zap v1.27.0
 	golang.org/x/net v0.40.0
-	golang.org/x/oauth2 v0.24.0
+	golang.org/x/oauth2 v0.26.0
 	golang.org/x/sync v0.14.0
 	golang.org/x/text v0.25.0
 	k8s.io/api v0.31.2
