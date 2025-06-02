@@ -14,15 +14,12 @@ require (
 	github.com/rs/zerolog v1.33.0
 	github.com/spf13/cobra v1.8.1
 	golang.org/x/net v0.38.0
-	k8s.io/api v0.33.1
+	k8s.io/api v0.31.2
 	k8s.io/apimachinery v0.33.1
-	k8s.io/client-go v0.33.1
+	k8s.io/client-go v0.31.2
 )
 
-require (
-	gopkg.in/evanphx/json-patch.v4 v4.12.0 // indirect
-	sigs.k8s.io/randfill v1.0.0 // indirect
-)
+require sigs.k8s.io/randfill v1.0.0 // indirect
 
 require sigs.k8s.io/randfill v1.0.0 // indirect
 
