@@ -15,7 +15,7 @@ require (
 	github.com/stretchr/testify v1.10.0
 	github.com/urfave/cli/v2 v2.27.6
 	go.uber.org/ratelimit v0.3.1
-	golang.org/x/sync v0.14.0
+	golang.org/x/sync v0.15.0
 )
 
 require github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
