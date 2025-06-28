@@ -16,12 +16,11 @@ require (
 	golang.org/x/net v0.40.0
 	k8s.io/api v0.33.2
 	k8s.io/apimachinery v0.33.2
-	k8s.io/client-go v0.31.2
+	k8s.io/client-go v0.33.2
 )
 
 require (
-	github.com/golang/protobuf v1.5.4 // indirect
-	github.com/imdario/mergo v0.3.6 // indirect
+	gopkg.in/evanphx/json-patch.v4 v4.12.0 // indirect
 	sigs.k8s.io/randfill v1.0.0 // indirect
 )
 
