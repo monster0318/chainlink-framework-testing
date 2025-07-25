@@ -8,9 +8,9 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/rs/zerolog v1.34.0
 	github.com/smartcontractkit/chainlink-testing-framework/lib/grafana v1.51.0
-	k8s.io/api v0.33.0
-	k8s.io/apimachinery v0.33.1
-	k8s.io/client-go v0.33.0
+	k8s.io/api v0.33.2
+	k8s.io/apimachinery v0.33.2
+	k8s.io/client-go v0.33.2
 	k8s.io/utils v0.0.0-20241104100929-3ea5e8cea738
 	sigs.k8s.io/controller-runtime v0.21.0
 )
