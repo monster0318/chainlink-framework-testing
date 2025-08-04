@@ -50,22 +50,22 @@ require (
 	github.com/armon/go-metrics v0.4.1 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 // indirect
 	github.com/aws/aws-sdk-go v1.55.6 // indirect
-	github.com/aws/aws-sdk-go-v2 v1.36.5 // indirect
+	github.com/aws/aws-sdk-go-v2 v1.37.0 // indirect
 	github.com/aws/aws-sdk-go-v2/config v1.29.17 // indirect
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.70 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.32 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.36 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.36 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/configsources v1.4.0 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.7.0 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.4 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.17 // indirect
-	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.35.7 // indirect
+	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.36.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sso v1.25.5 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.30.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sts v1.34.0 // indirect
 	github.com/aws/constructs-go/constructs/v10 v10.4.2 // indirect
 	github.com/aws/jsii-runtime-go v1.112.0 // indirect
-	github.com/aws/smithy-go v1.22.4 // indirect
+	github.com/aws/smithy-go v1.22.5 // indirect
 	github.com/bboreham/go-loser v0.0.0-20230920113527-fcc2c21820a3 // indirect
 	github.com/benbjohnson/clock v1.3.5 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
@@ -221,10 +221,10 @@ require (
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55 // indirect
 	github.com/prometheus/alertmanager v0.28.1 // indirect
-	github.com/prometheus/client_golang v1.22.0
+	github.com/prometheus/client_golang v1.23.0
 	github.com/prometheus/client_model v0.6.2 // indirect
 	github.com/prometheus/exporter-toolkit v0.13.2 // indirect
-	github.com/prometheus/procfs v0.15.1 // indirect
+	github.com/prometheus/procfs v0.16.1 // indirect
 	github.com/prometheus/prometheus v0.302.1 // indirect
 	github.com/prometheus/sigv4 v0.1.2 // indirect
 	github.com/redis/go-redis/v9 v9.7.3 // indirect
