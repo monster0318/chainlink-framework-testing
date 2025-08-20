@@ -16,7 +16,7 @@ require (
 	github.com/grafana/loki/v3 v3.5.2
 	github.com/grafana/pyroscope-go v1.2.3
 	github.com/montanaflynn/stats v0.7.1
-	github.com/olekukonko/tablewriter v1.0.8
+	github.com/olekukonko/tablewriter v1.0.9
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/common v0.65.0
 	github.com/smartcontractkit/chainlink-testing-framework/lib v1.50.20-0.20250106135623-15722ca32b64
@@ -316,8 +316,8 @@ require (
 	github.com/ebitengine/purego v0.8.2 // indirect
 	github.com/hashicorp/go-metrics v0.5.4 // indirect
 	github.com/moby/go-archive v0.1.0 // indirect
-	github.com/olekukonko/errors v0.0.0-20250405072817-4e6d85265da6 // indirect
-	github.com/olekukonko/ll v0.0.8 // indirect
+	github.com/olekukonko/errors v1.1.0 // indirect
+	github.com/olekukonko/ll v0.0.9 // indirect
 	github.com/shirou/gopsutil/v4 v4.25.2 // indirect
 	github.com/tjhop/slog-gokit v0.1.4 // indirect
 	k8s.io/component-helpers v0.33.2 // indirect
