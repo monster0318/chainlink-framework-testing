@@ -221,10 +221,10 @@ require (
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55 // indirect
 	github.com/prometheus/alertmanager v0.28.1 // indirect
-	github.com/prometheus/client_golang v1.22.0
+	github.com/prometheus/client_golang v1.23.0
 	github.com/prometheus/client_model v0.6.2 // indirect
 	github.com/prometheus/exporter-toolkit v0.13.2 // indirect
-	github.com/prometheus/procfs v0.15.1 // indirect
+	github.com/prometheus/procfs v0.16.1 // indirect
 	github.com/prometheus/prometheus v0.302.1 // indirect
 	github.com/prometheus/sigv4 v0.1.2 // indirect
 	github.com/redis/go-redis/v9 v9.7.3 // indirect
