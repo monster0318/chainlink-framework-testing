@@ -4,7 +4,7 @@ go 1.24.0
 
 require (
 	github.com/BurntSushi/toml v1.5.0
-	github.com/aws/aws-sdk-go-v2 v1.38.0
+	github.com/aws/aws-sdk-go-v2 v1.38.1
 	github.com/aws/aws-sdk-go-v2/config v1.31.0
 	github.com/aws/aws-sdk-go-v2/service/ecr v1.48.0
 	github.com/go-playground/validator/v10 v10.27.0
