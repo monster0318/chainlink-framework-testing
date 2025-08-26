@@ -21,7 +21,7 @@ require (
 	github.com/prometheus/common v0.65.0
 	github.com/smartcontractkit/chainlink-testing-framework/lib v1.50.20-0.20250106135623-15722ca32b64
 	github.com/smartcontractkit/chainlink-testing-framework/lib/grafana v1.51.0
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.0
 	go.uber.org/ratelimit v0.3.1
 	google.golang.org/grpc v1.72.2 // indirect
 	k8s.io/api v0.33.4
